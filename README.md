@@ -1,7 +1,7 @@
 # FlutterResources
 list of resources link
-    Documentation: https://docs.flutter.io/
-    Github: https://github.com/flutter/flutter
+    * Documentation: https://docs.flutter.io/
+    * Github: https://github.com/flutter/flutter
     StackOverflow: https://stackoverflow.com/questions/tagged/flutter
     Gitter: https://gitter.im/flutter/flutter
     Effective Dart Guide: https://www.dartlang.org/guides/language/effective-dart
